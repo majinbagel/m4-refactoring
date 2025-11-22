@@ -1,2 +1,4 @@
-22faffe (HEAD -> main, origin/main, origin/HEAD) Task 1.1
+874dc4f Task 2.1
+7feac35 Task 1.2
+22faffe Task 1.1
 7260792 Initial commit
